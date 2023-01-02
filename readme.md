@@ -4,7 +4,7 @@ DeepAbstraction is an open-source framework mainly used to prioritize misclassif
 
 -------
 
-The framework is currently being maintained. It will be publicly available in the mid of september. Please feel free to contact me if you need the code urgently: hamzah.al-qadasi@univ-grenoble-alpes.fr` :email: :mailbox_with_no_mail:
+The framework is currently being maintained. Please feel free to contact me if you need the code: hamzah.al-qadasi@univ-grenoble-alpes.fr` :email: :mailbox_with_no_mail:
 
 -------
 ## Framework Workflow[.](https://icons8.com/icons)
